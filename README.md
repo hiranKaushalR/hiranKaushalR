@@ -2,6 +2,7 @@
 
 Hello there! I'm Hiran Kaushal Rajapaksha, a passionate self-taught React front-end web developer, currently 20 years old and enthusiastic about crafting immersive web experiences.
 
+
 🚀 Skills & Learning Journey
 
 I've delved into the basics of React and have a solid grasp of its fundamentals. While I'm comfortable navigating React and React Router, I'm eagerly diving deeper into advanced React concepts to enhance my expertise further.
