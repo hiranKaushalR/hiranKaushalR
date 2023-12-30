@@ -1,6 +1,3 @@
-
-Certainly! Here's a revised 'About Me' section for your GitHub README:
-
 👋 About Me
 Hello there! I'm Hiran Kaushal Rajapaksha, a passionate self-taught React front-end web developer, currently 20 years old and enthusiastic about crafting immersive web experiences.
 
