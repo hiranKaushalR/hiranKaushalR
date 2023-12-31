@@ -15,6 +15,6 @@
 
 📫 **Get in Touch**
 
-  Feel free to reach out to me via email at rhirankaushalr@gmail.com or connect with me on WhatsApp at +94774766389 (If you message me on WhatsApp, please mention that you found me through GitHub to avoid any confusion).
+  Feel free to reach out to me via email at rhirankaushalr@gmail.com or connect with me on WhatsApp at +94774766389 / *w.app/hirankaushalr* (If you message me on WhatsApp, please mention that you found me through GitHub to avoid any confusion).
 
 Let's collaborate, innovate, and create exceptional React-powered solutions together!
